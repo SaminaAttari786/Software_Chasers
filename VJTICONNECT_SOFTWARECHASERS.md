@@ -2,7 +2,7 @@
 
 ### Team name: SOFTWARE CHASERS
 
-## Team members
+### Team members
 * SAMINA ATTARI - sameenaattari7860@gmail.com
 * VRIDDHI GUPTA - vriddhigupta898@gmail.com
 * KRISHNA ASHER- krishnaashar20@gmail.com
